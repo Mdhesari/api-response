@@ -61,7 +61,7 @@ class ApiResponseServiceProvider extends ServiceProvider
         $this->loadTranslationsFrom(__DIR__.'/../lang', 'api-response');
 
         $this->publishes([
-            __DIR__.'/../lang' => $this->app->langPath('vendor/api-response'),
+            __DIR__.'/../lang' => $this->app->langPath().'/vendor/api-response',
         ]);
     }
 }
