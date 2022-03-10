@@ -1,5 +1,5 @@
 {
-    "name": "obiefy/api-response",
+    "name": "mdhesari/api-response",
     "type": "library",
     "description": "Simple Laravel package to return Json responses.",
     "keywords": [
@@ -11,7 +11,7 @@
         "restful",
         "RESTful API"
     ],
-    "homepage": "https://github.com/obiefy/api-response",
+    "homepage": "https://github.com/mdhesari/api-response",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -20,6 +20,12 @@
             "email": "obayhamed@gmail.com",
             "homepage": "http://obay-dev.com",
             "role": "Creator & Maintainer"
+        },
+        {
+            "name": "Mohamad Hesari",
+            "email": "mdhesari@gmail.com",
+            "homepage": "https://mdhesari.com",
+            "role": "Maintainer"
         }
     ],
     "require": {

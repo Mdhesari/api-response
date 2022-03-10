@@ -1,8 +1,8 @@
 # Laravel API Response
 
-![Build Status](https://travis-ci.org/obiefy/api-response.svg?branch=master)
+![Build Status](https://travis-ci.org/mdhesari/api-response.svg?branch=master)
 [![StyleCI](https://github.styleci.io/repos/206981157/shield?branch=master)](https://github.styleci.io/repos/206981157)
-![Packagist](https://img.shields.io/packagist/l/obiefy/api-response) ![Packagist Version](https://img.shields.io/packagist/v/obiefy/api-response)
+![Packagist](https://img.shields.io/packagist/l/mdhesari/api-response) ![Packagist Version](https://img.shields.io/packagist/v/mdhesari/api-response)
 
 Simple Laravel API response wrapper.
 
@@ -13,7 +13,7 @@ Simple Laravel API response wrapper.
 ## Installation
 1. Install the package through composer:
 
-    `$ composer require obiefy/api-response`
+    `$ composer require mdhesari/api-response`
 
 2. Register the package service provider to the providers array in `app.php` file:
 
